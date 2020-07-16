@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\weather\weather.Logica.Helpers\bin\Debug\weather.Logica.Helpers.dll
+C:\Users\Admin\source\repos\weather\weather.Logica.Helpers\bin\Debug\weather.Logica.Helpers.pdb
+C:\Users\Admin\source\repos\weather\weather.Logica.Helpers\bin\Debug\weather.Logica.Models.dll
+C:\Users\Admin\source\repos\weather\weather.Logica.Helpers\bin\Debug\weather.Logica.Models.pdb
+C:\Users\Admin\source\repos\weather\weather.Logica.Helpers\obj\Debug\weather.Logica.Helpers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\weather\weather.Logica.Helpers\obj\Debug\weather.Logica.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\weather\weather.Logica.Helpers\obj\Debug\weather.Logica.Helpers.csproj.CopyComplete
+C:\Users\Admin\source\repos\weather\weather.Logica.Helpers\obj\Debug\weather.Logica.Helpers.dll
+C:\Users\Admin\source\repos\weather\weather.Logica.Helpers\obj\Debug\weather.Logica.Helpers.pdb
